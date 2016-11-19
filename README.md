@@ -124,8 +124,9 @@ GNOME
 
 ![Screenshots](http://i.imgur.com/HSF0MDK.jpg)
 
+MATE
 
-
+![Screenshots](http://i.imgur.com/CnsdglT.jpg)
 
 
 # F  A  Q
