@@ -1,10 +1,53 @@
 # Ultimate Debian
 
-Let us first take a screenshot of the initial look of Debian
+You can install a lot of desktops on Debian like on any other distro...almost any.
 
-![Screenshots](http://i.imgur.com/RFfsxm6.jpg)
+I installed following iso
 
-Update your system.
+http://cdimage.debian.org/cdimage/stretch_di_alpha8/amd64/iso-dvd/
+
+
+Installing all desktop environments and checking Sardi icons
+
+	LXDE,
+	Budgie
+	Cinnamon,
+	Gnome,
+	Gnome classic,
+	Gnome on wayland,
+	lxqt,
+	mate,
+	openbox,
+	plasma,
+	xfce
+
+
+http://cdimage.debian.org/cdimage/stretch_di_alpha8/amd64/iso-dvd/
+
+of 2016-11-11
+
+XFCE4
+
+![Screenshots](http://i.imgur.com/9Z8XnNn.jpg)
+
+BUDGIE
+
+![Screenshots](http://i.imgur.com/A10P4mo.jpg)
+
+CINNAMON
+
+![Screenshots](http://i.imgur.com/ghnEv9H.jpg)
+
+
+# Youtube
+
+You can follow my installation of this iso on vmware and see me installing all desktops, installing all icons and changing settings in the various desktop managers. Writing down all the sardi icons I should still make or fix.
+
+https://www.youtube.com/watch?v=5vH5oPsu0jw
+
+
+
+# Update your system.
 
 This is my way of working when installing a new operating system.
 
@@ -24,7 +67,7 @@ Go inside the folder and right-click <b>in a blank space</b> to go to the termin
 Do not forget to type "./" in front of the name.
 
 
-![Screenshots](http://i.imgur.com/46pHNmX.jpg)
+![Screenshots](http://i.imgur.com/MyiDTnB.jpg)
 
 
 
@@ -49,7 +92,9 @@ The best of them
 	Google Chrome
 	...
 
+Want more scripts then this github is the 'mothership'.
 
+https://github.com/erikdubois/Ultimate-Linux-Mint-18-Cinnamon
 
 
 # Sardi Icon Theme
@@ -62,7 +107,7 @@ http://sourceforge.net/projects/sardi/
 For ease of installation I use the script
 
 
-	- icons-sardi-latest.sh
+	- icons-sardi-vx.sh
 
 
 
@@ -75,92 +120,10 @@ The most recent pictures can be found there.
 https://plus.google.com/u/0/collection/YFP-LB
 
 
-Some Examples!
+GNOME
 
+![Screenshots](http://i.imgur.com/HSF0MDK.jpg)
 
-Sardi Flexible has a script. Type a colour code and 3 seconds later all your icons have changed.
-
-Colour codes can be figured out locally with gpick or online via http://www.colorpicker.com/.
-
-![Screenshots](http://i.imgur.com/T9gN544.jpg)
-
-
-
-This is the original colour of Sardi Flexible with Minty-transparent theme.
-
-
-
-![Screenshots](http://i.imgur.com/iS6zFFU.jpg)
-
-Sardi Arc
-
-![Screenshots](http://i.imgur.com/IeZFWvs.jpg)
-
-
-
-
-# Surfn
---------------------------------- 
-
-This icon theme is based on an older one i.e. yltra flat also on github.
-
-This is an exercise in changing the directories from scalable/... to 22x22/...
-
-Super Ultra Flat Numix Remix will be updated not the Yltra Flat icon set.
-
-
-For ease of installation I use the script
-
-	- icons-super-ultra-flat-numix-latest.sh
-
-Also the older icon set can be installed via
-
-	-icons-yltra-flat-latest.sh
-
-
-
-![Screenshots](http://i.imgur.com/i1FGsR9.jpg)
-
-
-
-![Screenshots](http://i.imgur.com/EocrQ70.png)
-
-
-
-# Aureola Conky
----------------
-
-This is an exercise in writing conky configurations in lua syntax.
-
-At https://github.com/erikdubois/Aureola you can check out these conky's.
-
-![Screenshots](http://i.imgur.com/y92Jrp4.png)
-
-
-![Screenshots](http://i.imgur.com/97Q8RO1.jpg)
-
-
-![Screenshots](http://i.imgur.com/VgD9SqN.png)
-
-
-
-# Plank
-------------------
-Start plank from the menu. <b>CTRL + Right-click</b> on the plank and choose preferences
-and put in on top. I choose a transparent theme.
-
-But there are more themes out there if you want.
-
-If you want to autostart this everytime.
-Type in the menu " startup". Start 'startup applications'.
-
-Add application and choose plank or do it the old way and point to /usr/bin/plank.
-
-![Screenshots](http://i.imgur.com/arie1IY.jpg)
-
-A tutorial has been written here : 
-
-http://erikdubois.be/install-plank-linux-mint-17-3-set-preferences-add-themes-autostart/
 
 
 
