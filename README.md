@@ -13,7 +13,7 @@ First upgrade kernel and install drivers.
 If everything is still working we can install the software and start customizing the system.
 
 
-#1 Kernel
+# Kernel
 
 You can run any of these scripts by downloading the zip file from github. Go to the download folder and right-click to Extract here.
 Go inside the folder and right-click <b>in a blank space</b> to go to the terminal. Now your terminal is opened in this extracted folder.
@@ -29,7 +29,7 @@ Do not forget to type "./" in front of the name.
 
 
 
-#2 Software installation
+# Software installation
 
 We start the installation script of all the needed software in the same way as above. 
 
